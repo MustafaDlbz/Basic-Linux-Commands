@@ -3,6 +3,7 @@ Basic linux commands sıkça kullandığım temel Linux komutlarını içeren bi
 
 ### ls, ls -la komutu
 ls -> List - Mevcut dizindeki dosya ve dizinleri gösterir.
+
 ls -la -> Mevcut dizindeki gizli dosya ve dizinleri detaylı olarak gösterir.
 ```bash
   ls
